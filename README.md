@@ -39,6 +39,7 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 
 **🏗 Estrutura do Projeto**
 
+```
 ├── src/
 │   ├── main/
 │   │   └── java/
@@ -48,6 +49,7 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 ├── pom.xml
 ├── .gitignore
 └── README.md
+```
 
 
          
