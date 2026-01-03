@@ -39,20 +39,18 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 
 **🏗 Estrutura do Projeto**
 
-src
- ├── main
- │   └── java
- │       └── config
- └── test
-     └── java
-         ├── pages
-         ├── tests
-         └── utils
+├── src/
+│   ├── main/
+│   │   └── java/                
+│   └── test/
+│       └── java/                
+├── features/                    
+├── pom.xml                      
+├── .gitignore
+└── README.md
 
 
          
-
-
 **📄 Page Object Model (POM)**
 
 O projeto utiliza o padrão Page Object Model, onde cada página do sistema possui uma classe responsável por:
@@ -109,12 +107,4 @@ A plataforma fornece usuários próprios para testes.
 
 - Desenvolver um projeto para portfólio QA
 
-**👩‍💻 Autora**
 
-Gabriela Moreno
-
-Projeto desenvolvido para estudo e evolução em Qualidade de Software e Automação de Testes.
-
-**📄 Licença**
-
-Projeto de uso educacional, livre para estudos.
