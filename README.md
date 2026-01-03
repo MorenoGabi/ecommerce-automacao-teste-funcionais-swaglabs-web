@@ -22,7 +22,7 @@ Projeto desenvolvido para aprendizado, prática e portfólio em automação de t
 
 **Sobre Testes Automatizados**
 
-**Testes automatizados simulam o comportamento de um usuário real no sistema, garantindo que as funcionalidades continuem funcionando corretamente após alterações no código.*
+Testes automatizados simulam o comportamento de um usuário real no sistema, garantindo que as funcionalidades continuem funcionando corretamente após alterações no código.
 
 **Neste projeto, os testes validam:**
 
@@ -49,7 +49,7 @@ src
 
 **📄 Page Object Model (POM)**
 
-**O projeto utiliza o padrão Page Object Model, onde cada página do sistema possui uma classe responsável por:*
+O projeto utiliza o padrão Page Object Model, onde cada página do sistema possui uma classe responsável por:
 
 - Mapear os elementos da interface
 
@@ -70,7 +70,7 @@ src
 
 **Passos**
 
-**Clone o repositório:*
+Clone o repositório:
 
 git clone https://github.com/MorenoGabi/ecommerce-automacao-teste-funcionais-swaglabs-web
 
@@ -79,7 +79,7 @@ Abra o projeto na IDE
 
 Aguarde o download das dependências do Maven
 
-**Execute os testes:*
+Execute os testes:
 
 mvn test
 
@@ -91,7 +91,7 @@ Swag Labs
 
 https://www.saucedemo.com/
 
-**A plataforma fornece usuários próprios para testes.*
+A plataforma fornece usuários próprios para testes.
 
 **🎯 Objetivo do Projeto**
 
@@ -107,8 +107,8 @@ https://www.saucedemo.com/
 
 Gabriela Moreno
 
-**Projeto desenvolvido para estudo e evolução em Qualidade de Software e Automação de Testes.*
+Projeto desenvolvido para estudo e evolução em Qualidade de Software e Automação de Testes.
 
 **📄 Licença**
 
-**Projeto de uso educacional, livre para estudos.*
+Projeto de uso educacional, livre para estudos.
