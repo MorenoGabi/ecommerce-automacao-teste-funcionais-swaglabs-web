@@ -41,11 +41,11 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 
 ├── src/
 │   ├── main/
-│   │   └── java/                
+│   │   └── java/
 │   └── test/
-│       └── java/                
-├── features/                    
-├── pom.xml                      
+│       └── java/
+├── features/
+├── pom.xml
 ├── .gitignore
 └── README.md
 
