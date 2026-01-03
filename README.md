@@ -35,10 +35,9 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 - Finalização de compra
 
 - Comportamentos esperados do sistema
-- 
+ 
 
 **🏗 Estrutura do Projeto**
-
 
 src
  ├── main
