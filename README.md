@@ -37,6 +37,7 @@ Testes automatizados simulam o comportamento de um usuário real no sistema, gar
 - Comportamentos esperados do sistema
 
 **🏗 Estrutura do Projeto**
+
 src
  ├── main
  │   └── java
@@ -46,6 +47,7 @@ src
          ├── pages
          ├── tests
          └── utils
+         
 
 **📄 Page Object Model (POM)**
 
